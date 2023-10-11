@@ -1,27 +1,2 @@
-# Github first test
-## 1. TodoApp
-### 1.1 TodoApp
-### 1.2 TodoApp
-### 1.3 TodoApp
-### 1.4 TodoApp
-### 1.5 TodoApp
-### 1.6 TodoApp
-### 1.7 TodoApp
-### 1.8 TodoApp
-### 1.9 TodoApp
-### 1.10 TodoApp
-### 1.11 TodoApp
-### 1.12 TodoApp
-### 1.13 TodoApp
-### 1.14 TodoApp
-### 1.15 TodoApp
-### 1.16 TodoApp
-### 1.17 TodoApp
-### 1.18 TodoApp
-### 1.19 TodoApp
-### 1.20 TodoApp
-### 1.21 TodoApp
-### 1.22 TodoApp
-### 1.23 TodoApp
-### 1.24 TodoApp
-### 1.25 TodoApp
+# My First webapp in python
+### i learned a lot while i am builiding this application.
